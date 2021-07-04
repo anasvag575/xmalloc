@@ -21,7 +21,7 @@ To execute the tests, inside the folder with the Makefile and source code:
 make
 
 #Run the tests
-./run_test_alloc
+./run_test_alloc.sh
 ```
 
 The library is built as a dynamic library object (**.so**), where using the PRELOAD semantics a user can inject this allocator and override the default one, which is what the example script does.
