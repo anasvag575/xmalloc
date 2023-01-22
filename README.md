@@ -8,7 +8,7 @@ A C/C++ implementation of a multithreaded memory allocator. Supports all the bas
 
 This implementation is based on this paper, as part of the ECE P124 class (Advanced OS):
 
-- **[Scalable Locality-Conscious Multithreaded Memory Allocation]**. Scott Schneider, Christos D. Antonopoulos and Dimitrios S. Nikolopoulos. *Proc. of the 2006 ACM SIGPLAN International Symposium on Memory Management (ISMM)*, Ottawa, Canada, June 2006.
+- **[Scott Schneider, Christos D. Antonopoulos, and Dimitrios S. Nikolopoulos. 2006. Scalable locality-conscious multithreaded memory allocation. In Proceedings of the 5th international symposium on Memory management (ISMM '06). Association for Computing Machinery, New York, NY, USA, 84–94. https://doi.org/10.1145/1133956.1133968]
 
 We provide an additional PDF report with our modifications and additions to the initial implementation, in order to support 64-bit architectures.
 
